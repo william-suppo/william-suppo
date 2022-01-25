@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bonjour ici 👋
 
-<!--
-**william-suppo/william-suppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle William et je suis Architecte logiciel.  
+Père de 3 ptits monstres !  
+J'aime la tech et partager avec la communauté.  
 
-Here are some ideas to get you started:
+Je travaille actuellement, en collab avec [Mathieu](https://github.com/DeGraciaMathieu),  
+Sur un blog technique autour du framework Laravel pour la commu FR. 🔭  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Autrement j'ai développé des paquets PHP [ici](https://github.com/neoshiftlab) :package:
+
+Et mon dernier projet perso est un outil de tenue de compte [Cr€sus](https://github.com/william-suppo/cresus) 💵
+
+Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières infos ! 📫
