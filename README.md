@@ -11,4 +11,4 @@ Autrement j'ai développé des [paquets PHP](https://github.com/neoshiftlab) �
 
 Et mon dernier _side-project_ est une application web de tenue de compte [Cr€sus](https://github.com/william-suppo/cresus) 💵
 
-Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
+Je t'invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
