@@ -8,6 +8,7 @@ Je vous présente [Laravel France](https://laravel-france.com/), co-maintenue av
 Notre blog communautaire francophone autour du framework Laravel. 🚀
 
 Voici mes derniers articles :
++ [La notion de Manager dans Laravel](https://laravel-france.com/posts/la-notion-de-manager-dans-laravel)
 + [Maîtriser vos données avec un DTO !](https://laravel-france.com/posts/maitriser-vos-donnees-avec-un-dto)
 + [Laravel 9 est disponible !](https://laravel-france.com/posts/laravel-9-est-disponible)
 + [Comment développer un paquet en local ?](https://laravel-france.com/posts/comment-developper-un-paquet-en-local)
