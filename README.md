@@ -8,6 +8,7 @@ Je vous présente [Laravel France](https://laravel-france.com/), co-maintenue av
 Notre blog communautaire francophone autour du framework Laravel. 🚀
 
 Voici mes derniers articles :
++ [Utiliser une API pour nourrir une base de manière cohérente](https://laravel-france.com/posts/utiliser-une-api-pour-nourrir-une-base-de-maniere-coherente)
 + [Monitorer son site web](https://laravel-france.com/posts/monitorer-son-site-web)
 + [La notion de Manager dans Laravel](https://laravel-france.com/posts/la-notion-de-manager-dans-laravel)
 + [Maîtriser vos données avec un DTO !](https://laravel-france.com/posts/maitriser-vos-donnees-avec-un-dto)
