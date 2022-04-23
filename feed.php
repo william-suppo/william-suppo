@@ -1,6 +1,6 @@
 <?php
 
-$posts = fetchPosts('https://laravel-france.com/rss?author=William');
+$posts = fetchPosts('https://laravel-france.com/rss?author=William&limit5');
 
 $updatedReadme = feedReadme($posts);
 
