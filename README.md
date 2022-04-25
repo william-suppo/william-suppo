@@ -10,6 +10,7 @@ nous avons fondé [Laravel France](https://laravel-france.com/), notre blog comm
 Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
 
 Mes derniers articles 📰 :
++ [PHPStan: Un outil qui vous veut du bien](https://laravel-france.com/posts/phpstan-un-outil-qui-vous-veut-du-bien)
 + [Utiliser une API pour nourrir une base de manière cohérente](https://laravel-france.com/posts/utiliser-une-api-pour-nourrir-une-base-de-maniere-coherente)
 + [Monitorer son site web](https://laravel-france.com/posts/monitorer-son-site-web)
 + [La notion de Manager dans Laravel](https://laravel-france.com/posts/la-notion-de-manager-dans-laravel)
