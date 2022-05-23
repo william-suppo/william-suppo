@@ -10,6 +10,7 @@ nous avons fondé [Laravel France](https://laravel-france.com/), notre blog comm
 Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
 
 Mes derniers articles 📰 :
++ [Notifier ses utilisateurs via les websockets](https://laravel-france.com/posts/notifier-ses-utilisateurs-via-les-websockets)
 + [Traiter du Markdown avec league/commonmark](https://laravel-france.com/posts/traiter-du-markdown-avec-leaguecommonmark)
 + [PHPStan: Un outil qui vous veut du bien](https://laravel-france.com/posts/phpstan-un-outil-qui-vous-veut-du-bien)
 + [Utiliser une API pour nourrir une base de manière cohérente](https://laravel-france.com/posts/utiliser-une-api-pour-nourrir-une-base-de-maniere-coherente)
