@@ -10,8 +10,8 @@ nous avons fondé [Laravel France](https://laravel-france.com/), notre blog comm
 Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
 
 Mes derniers articles 📰 :
++ [Les bases 5/6 : Contrôle d’accès](https://laravel-france.com/posts/les-bases-56-controle-dacces)
++ [Hacktoberfest c’est parti !](https://laravel-france.com/posts/hacktoberfest-cest-parti)
++ [Les bases 4/6 : Validation des données](https://laravel-france.com/posts/les-bases-46-validation-des-donnees)
++ [Connexion rapide en env de développement](https://laravel-france.com/posts/connexion-rapide-en-env-de-developpement)
 + [Les bases 3/6 : Création des vues](https://laravel-france.com/posts/les-bases-36-creation-des-vues)
-+ [Vite remplace Laravel Mix](https://laravel-france.com/posts/vite-remplace-laravel-mix)
-+ [Les bases 2/6 : Création du contrôleur](https://laravel-france.com/posts/les-bases-26-creation-du-controleur)
-+ [Les bases 1/6 : Création du modèle](https://laravel-france.com/posts/les-bases-16-creation-du-modele)
-+ [Notifier ses utilisateurs via les websockets](https://laravel-france.com/posts/notifier-ses-utilisateurs-via-les-websockets)
