@@ -9,8 +9,8 @@ nous avons fondé [Laravel France](https://laravel-france.com/), notre blog comm
 Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
 
 Mes derniers articles 📰 :
++ [Piloter son application avec Forge](https://laravel-france.com/posts/piloter-son-application-avec-forge)
 + [Laravel 10 est disponible !](https://laravel-france.com/posts/laravel-10-est-disponible)
 + [PHPStan valide nos règles de conception](https://laravel-france.com/posts/phpstan-valide-nos-regles-de-conception)
 + [DTO est mort vive Data !](https://laravel-france.com/posts/dto-est-mort-vive-data)
 + [Les bases 6/6 : Les tests](https://laravel-france.com/posts/les-bases-66-les-tests)
-+ [Les bases 5/6 : Contrôle d’accès](https://laravel-france.com/posts/les-bases-56-controle-dacces)
