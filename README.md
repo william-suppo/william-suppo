@@ -1,6 +1,6 @@
 ### Salut voyageur 👋
 
-Je m'appelle William, je suis Lead développeur, expert PHP et Laravel.  
+Je m'appelle William, je suis Engineering Manager & Architect, expert PHP et Laravel.  
 Je suis aussi l'heureux papa de 3 ptits monstres !  
 
 J'aime la tech et partager avec la communauté c'est pourquoi, avec [Mathieu](https://github.com/DeGraciaMathieu), 
