@@ -12,8 +12,8 @@ Je suis aussi l'heureux papa de 3 ptits monstres !
 Je vous invite à me suivre sur mon [Twitter](https://twitter.com/williamsuppo) pour rester à l'affût de mes dernières news ! 📫
 
 Mes derniers articles 📰 :
++ [Récapitulatif de l'année 2024](https://laravel-france.com/posts/recapitulatif-de-lannee-2024)
 + [PHPStan : Il est où dd() ?](https://laravel-france.com/posts/phpstan-il-est-ou-dd)
 + [Retour sur la conférence API Platform 2024](https://laravel-france.com/posts/retour-sur-la-conference-api-platform-2024)
 + [API Platform Conference 2024 : On y sera !](https://laravel-france.com/posts/api-platform-conference-2024-on-y-sera)
 + [Conteneuriser son application Laravel avec Docker](https://laravel-france.com/posts/conteneuriser-son-application-laravel-avec-docker)
-+ [Récap 2023](https://laravel-france.com/posts/recap-2023)
